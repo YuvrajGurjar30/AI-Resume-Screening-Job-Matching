@@ -1,4 +1,4 @@
-\# 🤖 AI-Based Resume Screening \& Job Matching
+# 🤖 AI-Based Resume Screening \& Job Matching
 
 
 
@@ -10,11 +10,11 @@ The project is being developed as a final-year B.Tech CSE project using \*\*Spri
 
 
 
-\---
 
 
 
-\## 📌 Project Overview
+
+## 📌 Project Overview
 
 
 
