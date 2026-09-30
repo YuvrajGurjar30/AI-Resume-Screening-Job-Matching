@@ -1,0 +1,13 @@
+### Save Resume
+POST http://localhost:8080/resumes
+Content-Type: application/json
+
+{
+  "fileName": "test_resume.pdf",
+  "candidateName": "Yuvraj Singh",
+  "email": "yuvraj@example.com",
+  "skills": "Java, Spring Boot, MySQL, React",
+  "experience": 1,
+  "education": "B.Tech CSE",
+  "resumeText": "Java Spring Boot developer with experience in backend development"
+}
