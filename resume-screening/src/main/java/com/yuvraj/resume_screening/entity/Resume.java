@@ -22,5 +22,6 @@ public class Resume {
     private String skills;
     private int experience;
     private String education;
+    @jakarta.persistence.Column(columnDefinition = "TEXT")
     private String resumeText;
 }
